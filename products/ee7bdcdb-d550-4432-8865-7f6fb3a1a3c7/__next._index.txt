@@ -1,0 +1,95 @@
+1:"$Sreact.fragment"
+2:I[10536,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"YandexMetrika"]
+3:I[60379,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default"]
+4:I[44345,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default"]
+:HL["/_next/static/chunks/0flh16y1kdh~2.css","style"]
+5:T820,
+        .legal-footer {
+          padding: 2.75rem 1rem;
+        }
+
+        .legal-footer__inner {
+          display: grid;
+          gap: 2rem;
+          max-width: 72rem;
+          margin: 0 auto;
+        }
+
+        .legal-footer__title {
+          color: var(--foreground);
+          font-size: 1rem;
+          font-weight: 650;
+          line-height: 1.5;
+        }
+
+        .legal-footer__text {
+          max-width: 28rem;
+          margin-top: 0.75rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__meta {
+          margin-top: 1.25rem;
+          font-size: 0.75rem;
+          line-height: 1.5;
+        }
+
+        .legal-footer__label {
+          color: var(--foreground);
+          font-size: 0.75rem;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+          line-height: 1.4;
+          text-transform: uppercase;
+        }
+
+        .legal-footer__links {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.7rem;
+          margin-top: 1rem;
+        }
+
+        .legal-footer__link {
+          color: inherit;
+          line-height: 1.45;
+          text-decoration: none;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__link:hover {
+          color: var(--foreground);
+        }
+
+        .legal-footer__seller {
+          margin-top: 1rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__requisites {
+          display: inline-flex;
+          margin-top: 0.8rem;
+          color: var(--foreground);
+          font-weight: 600;
+          text-decoration: underline;
+          text-underline-offset: 4px;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__requisites:hover {
+          color: var(--muted-foreground);
+        }
+
+        @media (min-width: 768px) {
+          .legal-footer {
+            padding: 3.25rem 1.5rem;
+          }
+
+          .legal-footer__inner {
+            grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.9fr) minmax(0, 1fr);
+            align-items: start;
+          }
+        }
+      0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0flh16y1kdh~2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/120_mrj66w7d5.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0o-0m-u_g1k0-.js","async":true}]],["$","html",null,{"lang":"ru","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","footer",null,{"className":"legal-footer border-t border-border bg-background text-sm text-muted-foreground bg-[#070a10]","children":[["$","style",null,{"children":"$5"}],"$L6"]}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"og0eHUwX5w_Gvnw2gbxF7"}
+6:["$","div",null,{"className":"legal-footer__inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__title","children":"WoW Arsenal · Accentra"}],["$","p",null,{"className":"legal-footer__text","children":"Цифровые товары с онлайн-оплатой и выдачей доступа после покупки."}],["$","p",null,{"className":"legal-footer__meta","children":["© ",2026," ","WoW Arsenal · Accentra"]}]]}],["$","nav",null,{"aria-label":"Юридические документы","children":[["$","p",null,{"className":"legal-footer__label","children":"Документы"}],["$","div",null,{"className":"legal-footer__links","children":[["$","a","/legal/offer/",{"href":"https://accentra.ru/legal/offer/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Публичная оферта"}],["$","a","/legal/privacy/",{"href":"https://accentra.ru/legal/privacy/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Политика персональных данных"}],["$","a","/legal/personal-data-consent/",{"href":"https://accentra.ru/legal/personal-data-consent/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Согласие на обработку ПД"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__label","children":"Продавец"}],["$","p",null,{"className":"legal-footer__seller","children":"Физическое лицо, плательщик налога на профессиональный доход."}],["$","a",null,{"href":"https://accentra.ru/contacts/","target":"_blank","rel":"noreferrer","className":"legal-footer__requisites","children":"Открыть реквизиты"}]]}]]}]

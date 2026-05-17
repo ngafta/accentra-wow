@@ -1,0 +1,144 @@
+1:"$Sreact.fragment"
+2:I[10536,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"YandexMetrika"]
+3:I[60379,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default"]
+4:I[44345,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default"]
+c:I[3222,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default",1]
+:HL["/_next/static/chunks/0flh16y1kdh~2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:T820,
+        .legal-footer {
+          padding: 2.75rem 1rem;
+        }
+
+        .legal-footer__inner {
+          display: grid;
+          gap: 2rem;
+          max-width: 72rem;
+          margin: 0 auto;
+        }
+
+        .legal-footer__title {
+          color: var(--foreground);
+          font-size: 1rem;
+          font-weight: 650;
+          line-height: 1.5;
+        }
+
+        .legal-footer__text {
+          max-width: 28rem;
+          margin-top: 0.75rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__meta {
+          margin-top: 1.25rem;
+          font-size: 0.75rem;
+          line-height: 1.5;
+        }
+
+        .legal-footer__label {
+          color: var(--foreground);
+          font-size: 0.75rem;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+          line-height: 1.4;
+          text-transform: uppercase;
+        }
+
+        .legal-footer__links {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.7rem;
+          margin-top: 1rem;
+        }
+
+        .legal-footer__link {
+          color: inherit;
+          line-height: 1.45;
+          text-decoration: none;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__link:hover {
+          color: var(--foreground);
+        }
+
+        .legal-footer__seller {
+          margin-top: 1rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__requisites {
+          display: inline-flex;
+          margin-top: 0.8rem;
+          color: var(--foreground);
+          font-weight: 600;
+          text-decoration: underline;
+          text-underline-offset: 4px;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__requisites:hover {
+          color: var(--muted-foreground);
+        }
+
+        @media (min-width: 768px) {
+          .legal-footer {
+            padding: 3.25rem 1.5rem;
+          }
+
+          .legal-footer__inner {
+            grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.9fr) minmax(0, 1fr);
+            align-items: start;
+          }
+        }
+      0:{"P":null,"c":["","products","8c2f8cf0-f976-4fdf-9dd5-a84a4e0d2ac6",""],"q":"","i":false,"f":[[["",{"children":["products",{"children":[["productId","8c2f8cf0-f976-4fdf-9dd5-a84a4e0d2ac6","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0flh16y1kdh~2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/120_mrj66w7d5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0o-0m-u_g1k0-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"legal-footer border-t border-border bg-background text-sm text-muted-foreground bg-[#070a10]","children":[["$","style",null,{"children":"$5"}],"$L6"]}]]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"og0eHUwX5w_Gvnw2gbxF7"}
+f:I[96237,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[96237,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"ViewportBoundary"]
+15:I[96237,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"MetadataBoundary"]
+6:["$","div",null,{"className":"legal-footer__inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__title","children":"WoW Arsenal · Accentra"}],["$","p",null,{"className":"legal-footer__text","children":"Цифровые товары с онлайн-оплатой и выдачей доступа после покупки."}],["$","p",null,{"className":"legal-footer__meta","children":["© ",2026," ","WoW Arsenal · Accentra"]}]]}],["$","nav",null,{"aria-label":"Юридические документы","children":[["$","p",null,{"className":"legal-footer__label","children":"Документы"}],["$","div",null,{"className":"legal-footer__links","children":[["$","a","/legal/offer/",{"href":"https://accentra.ru/legal/offer/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Публичная оферта"}],["$","a","/legal/privacy/",{"href":"https://accentra.ru/legal/privacy/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Политика персональных данных"}],["$","a","/legal/personal-data-consent/",{"href":"https://accentra.ru/legal/personal-data-consent/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Согласие на обработку ПД"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__label","children":"Продавец"}],["$","p",null,{"className":"legal-footer__seller","children":"Физическое лицо, плательщик налога на профессиональный доход."}],["$","a",null,{"href":"https://accentra.ru/contacts/","target":"_blank","rel":"noreferrer","className":"legal-footer__requisites","children":"Открыть реквизиты"}]]}]]}]
+7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$Le",[["$","script","script-0",{"src":"/_next/static/chunks/0hgnnne.9hf9c.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
+12:[]
+a:"$W12"
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0flh16y1kdh~2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[38883,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js","/_next/static/chunks/0hgnnne.9hf9c.js"],"SiteHeader"]
+18:I[58891,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js","/_next/static/chunks/0hgnnne.9hf9c.js"],"Image"]
+21:I[15637,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"IconMark"]
+e:["$","div",null,{"className":"min-h-dvh bg-background","children":[["$","$L17",null,{}],["$","main",null,{"children":["$","section",null,{"className":"grid min-h-[calc(100dvh-4.5rem)] lg:grid-cols-[0.95fr_1.05fr]","children":[["$","div",null,{"className":"relative min-h-[48svh] overflow-hidden border-b border-border lg:min-h-[calc(100dvh-4.5rem)] lg:border-b-0 lg:border-r","children":[["$","$L18",null,{"src":"/product-assets/8c2f8cf0-f976-4fdf-9dd5-a84a4e0d2ac6/cover.png","alt":"🎮 Как зарабатывать в World of Warcraft: понятный курс для игроков, которые хотят превратить время в игре в деньги","fill":true,"priority":true,"className":"object-cover","sizes":"100vw"}],["$","div",null,{"className":"absolute inset-0 bg-[linear-gradient(0deg,rgba(6,8,13,0.92),rgba(6,8,13,0.10)_48%,rgba(6,8,13,0.72))]"}],["$","a",null,{"href":"/products/","className":"absolute left-5 top-5 rounded border border-white/18 bg-black/30 px-4 py-2 text-sm font-semibold text-foreground backdrop-blur transition hover:bg-black/45","children":"Назад в каталог"}]]}],["$","div",null,{"className":"flex items-center px-4 py-12 sm:px-8 lg:px-14","children":["$","article",null,{"className":"mx-auto max-w-2xl","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.18em] text-accent","children":"WoW продукт"}],["$","h1",null,{"className":"mt-4 text-4xl font-semibold leading-tight tracking-normal sm:text-6xl","children":"🎮 Как зарабатывать в World of Warcraft: понятный курс для игроков, которые хотят превратить время в игре в деньги"}],["$","div",null,{"className":"mt-6 inline-flex rounded bg-primary px-4 py-2 text-lg font-semibold text-primary-foreground","children":"1 999 ₽"}],["$","div",null,{"className":"mt-9 space-y-5 text-lg leading-8 text-muted-foreground","children":[["$","p","Вы и так проводите время в World of Warcraft — фармите, разбираетесь в механиках, следите за рынком, знаете, что ценится у игроков.",{"children":"Вы и так проводите время в World of Warcraft — фармите, разбираетесь в механиках, следите за рынком, знаете, что ценится у игроков."}],["$","p","Но задумывались ли вы, что этот опыт можно превратить в дополнительный доход? 💰",{"children":"Но задумывались ли вы, что этот опыт можно превратить в дополнительный доход? 💰"}],["$","p","Этот курс — для тех, кто хочет понять, как устроен заработок вокруг WoW, какие направления действительно имеют спрос и с чего начать без хаоса, лишних ошибок и пустых ожиданий.",{"children":"Этот курс — для тех, кто хочет понять, как устроен заработок вокруг WoW, какие направления действительно имеют спрос и с чего начать без хаоса, лишних ошибок и пустых ожиданий."}],["$","p","Внутри вы разберётесь:",{"children":"Внутри вы разберётесь:"}],["$","p","🎮 Какие способы заработка связаны с World of Warcraft",{"children":"🎮 Какие способы заработка связаны с World of Warcraft"}],["$","p","💡 На чём игроки действительно готовы тратить деньги",{"children":"💡 На чём игроки действительно готовы тратить деньги"}],["$","p","📦 Какие товары, услуги и форматы можно предлагать",{"children":"📦 Какие товары, услуги и форматы можно предлагать"}],["$","p","🧭 Как выбрать направление под свои навыки и стиль игры",{"children":"🧭 Как выбрать направление под свои навыки и стиль игры"}],["$","p","⚠️ Какие ошибки чаще всего мешают новичкам заработать",{"children":"⚠️ Какие ошибки чаще всего мешают новичкам заработать"}],["$","p","🚀 Как перейти от идеи к первым действиям и не бросить на старте",{"children":"🚀 Как перейти от идеи к первым действиям и не бросить на старте"}],["$","p","Курс подойдёт, если вы:",{"children":"Курс подойдёт, если вы:"}],["$","p","— давно играете в WoW и хотите извлечь из своего опыта больше пользы;",{"children":"— давно играете в WoW и хотите извлечь из своего опыта больше пользы;"}],"$L19","$L1a","$L1b","$L1c"]}],"$L1d","$L1e","$L1f"]}]}]]}]}]]}]
+11:null
+20:T847,Вы и так проводите время в World of Warcraft — фармите, разбираетесь в механиках, следите за рынком, знаете, что ценится у игроков.
+Но задумывались ли вы, что этот опыт можно превратить в дополнительный доход? 💰
+
+Этот курс — для тех, кто хочет понять, как устроен заработок вокруг WoW, какие направления действительно имеют спрос и с чего начать без хаоса, лишних ошибок и пустых ожиданий.
+
+Внутри вы разберётесь:
+
+🎮 Какие способы заработка связаны с World of Warcraft
+💡 На чём игроки действительно готовы тратить деньги
+📦 Какие товары, услуги и форматы можно предлагать
+🧭 Как выбрать направление под свои навыки и стиль игры
+⚠️ Какие ошибки чаще всего мешают новичкам заработать
+🚀 Как перейти от идеи к первым действиям и не бросить на старте
+
+Курс подойдёт, если вы:
+
+— давно играете в WoW и хотите извлечь из своего опыта больше пользы;
+— ищете дополнительный источник дохода на теме, которая вам действительно интересна;
+— не хотите тратить недели на хаотичный поиск информации по форумам и роликам;
+— хотите получить понятную картину: где есть спрос, как начать и куда двигаться дальше.
+
+🔥 Не просто «играть ради игры», а использовать свои знания о WoW осознанно и с выгодой.16:[["$","title","0",{"children":"🎮 Как зарабатывать в World of Warcraft: понятный курс для игроков, которые хотят превратить время в игре в деньги — WoW Arsenal"}],["$","meta","1",{"name":"description","content":"$20"}],["$","meta","2",{"name":"yandex-verification","content":"3810a843afc384e1"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/favicon.ico?favicon.0-gzdo0tdrnai.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}],["$","link","6",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}],["$","$L21","7",{}]]
+19:["$","p","— ищете дополнительный источник дохода на теме, которая вам действительно интересна;",{"children":"— ищете дополнительный источник дохода на теме, которая вам действительно интересна;"}]
+1a:["$","p","— не хотите тратить недели на хаотичный поиск информации по форумам и роликам;",{"children":"— не хотите тратить недели на хаотичный поиск информации по форумам и роликам;"}]
+1b:["$","p","— хотите получить понятную картину: где есть спрос, как начать и куда двигаться дальше.",{"children":"— хотите получить понятную картину: где есть спрос, как начать и куда двигаться дальше."}]
+1c:["$","p","🔥 Не просто «играть ради игры», а использовать свои знания о WoW осознанно и с выгодой.",{"children":"🔥 Не просто «играть ради игры», а использовать свои знания о WoW осознанно и с выгодой."}]
+1d:["$","section",null,{"className":"mt-8 rounded-md border border-border bg-card p-5 text-card-foreground","children":[["$","h2",null,{"className":"text-lg font-semibold tracking-normal","children":"Файлы и выдача"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-muted-foreground","children":"Материал выдается как цифровой доступ после успешной оплаты. Смысл, формат и состав продукта раскрыты в описании на этой странице до перехода к платежной форме."}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-muted-foreground","children":"Описание, состав файлов, формат материалов, способ передачи и условия доступа являются частью публичной оферты."}]]}]
+1e:["$","div",null,{"className":"mt-10 grid gap-3 sm:grid-cols-3","children":[["$","div","Мгновенная выдача",{"className":"rounded border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":"Мгновенная выдача"}],["$","div","Цифровой формат",{"className":"rounded border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":"Цифровой формат"}],["$","div","Проект WoW",{"className":"rounded border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":"Проект WoW"}]]}]
+1f:["$","a",null,{"href":"https://accentra.ru/products/8c2f8cf0-f976-4fdf-9dd5-a84a4e0d2ac6/","target":"_blank","rel":"noreferrer","className":"mt-10 inline-flex h-12 items-center justify-center rounded bg-primary px-6 text-base font-semibold text-primary-foreground transition hover:bg-[#ffd074]","children":"Купить на Accentra"}]

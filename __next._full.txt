@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[10536,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"YandexMetrika"]
+3:I[60379,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default"]
+4:I[44345,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default"]
+9:I[3222,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"default",1]
+:HL["/_next/static/chunks/0flh16y1kdh~2.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:T820,
+        .legal-footer {
+          padding: 2.75rem 1rem;
+        }
+
+        .legal-footer__inner {
+          display: grid;
+          gap: 2rem;
+          max-width: 72rem;
+          margin: 0 auto;
+        }
+
+        .legal-footer__title {
+          color: var(--foreground);
+          font-size: 1rem;
+          font-weight: 650;
+          line-height: 1.5;
+        }
+
+        .legal-footer__text {
+          max-width: 28rem;
+          margin-top: 0.75rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__meta {
+          margin-top: 1.25rem;
+          font-size: 0.75rem;
+          line-height: 1.5;
+        }
+
+        .legal-footer__label {
+          color: var(--foreground);
+          font-size: 0.75rem;
+          font-weight: 700;
+          letter-spacing: 0.08em;
+          line-height: 1.4;
+          text-transform: uppercase;
+        }
+
+        .legal-footer__links {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.7rem;
+          margin-top: 1rem;
+        }
+
+        .legal-footer__link {
+          color: inherit;
+          line-height: 1.45;
+          text-decoration: none;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__link:hover {
+          color: var(--foreground);
+        }
+
+        .legal-footer__seller {
+          margin-top: 1rem;
+          line-height: 1.65;
+        }
+
+        .legal-footer__requisites {
+          display: inline-flex;
+          margin-top: 0.8rem;
+          color: var(--foreground);
+          font-weight: 600;
+          text-decoration: underline;
+          text-underline-offset: 4px;
+          transition: color 160ms ease;
+        }
+
+        .legal-footer__requisites:hover {
+          color: var(--muted-foreground);
+        }
+
+        @media (min-width: 768px) {
+          .legal-footer {
+            padding: 3.25rem 1.5rem;
+          }
+
+          .legal-footer__inner {
+            grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.9fr) minmax(0, 1fr);
+            align-items: start;
+          }
+        }
+      0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0flh16y1kdh~2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/120_mrj66w7d5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0o-0m-u_g1k0-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"legal-footer border-t border-border bg-background text-sm text-muted-foreground bg-[#070a10]","children":[["$","style",null,{"children":"$5"}],"$L6"]}]]}]}]]}],{"children":["$L7",{},null,false,null]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"og0eHUwX5w_Gvnw2gbxF7"}
+b:I[38883,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js","/_next/static/chunks/0hgnnne.9hf9c.js"],"SiteHeader"]
+c:I[58891,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js","/_next/static/chunks/0hgnnne.9hf9c.js"],"Image"]
+11:I[96237,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"ViewportBoundary"]
+13:I[96237,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"MetadataBoundary"]
+14:"$Sreact.suspense"
+6:["$","div",null,{"className":"legal-footer__inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__title","children":"WoW Arsenal · Accentra"}],["$","p",null,{"className":"legal-footer__text","children":"Цифровые товары с онлайн-оплатой и выдачей доступа после покупки."}],["$","p",null,{"className":"legal-footer__meta","children":["© ",2026," ","WoW Arsenal · Accentra"]}]]}],["$","nav",null,{"aria-label":"Юридические документы","children":[["$","p",null,{"className":"legal-footer__label","children":"Документы"}],["$","div",null,{"className":"legal-footer__links","children":[["$","a","/legal/offer/",{"href":"https://accentra.ru/legal/offer/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Публичная оферта"}],["$","a","/legal/privacy/",{"href":"https://accentra.ru/legal/privacy/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Политика персональных данных"}],["$","a","/legal/personal-data-consent/",{"href":"https://accentra.ru/legal/personal-data-consent/","target":"_blank","rel":"noreferrer","className":"legal-footer__link","children":"Согласие на обработку ПД"}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"legal-footer__label","children":"Продавец"}],["$","p",null,{"className":"legal-footer__seller","children":"Физическое лицо, плательщик налога на профессиональный доход."}],["$","a",null,{"href":"https://accentra.ru/contacts/","target":"_blank","rel":"noreferrer","className":"legal-footer__requisites","children":"Открыть реквизиты"}]]}]]}]
+7:["$","$1","c",{"children":[["$","div",null,{"className":"min-h-dvh bg-background","children":[["$","$Lb",null,{}],["$","main",null,{"children":[["$","section",null,{"className":"relative isolate overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 -z-20","children":[["$","$Lc",null,{"src":"/hero/citadel-dusk.png","alt":"","fill":true,"priority":true,"className":"hero-fade-a object-cover","sizes":"100vw"}],["$","$Lc",null,{"src":"/hero/arcane-war-room.png","alt":"","fill":true,"priority":true,"className":"hero-fade-b object-cover","sizes":"100vw"}]]}],["$","div",null,{"className":"absolute inset-0 -z-10 bg-[radial-gradient(circle_at_74%_28%,rgba(23,210,191,0.22),transparent_30%),linear-gradient(90deg,rgba(6,8,13,0.96)_0%,rgba(6,8,13,0.72)_42%,rgba(6,8,13,0.22)_100%),linear-gradient(0deg,rgba(6,8,13,1)_0%,rgba(6,8,13,0)_34%)]"}],["$","div",null,{"className":"mx-auto flex min-h-[calc(100svh-4.5rem)] max-w-7xl flex-col justify-center px-4 py-18 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"max-w-3xl","children":[["$","p",null,{"className":"mb-5 inline-flex rounded border border-primary/40 bg-primary/12 px-3 py-1 text-sm font-semibold text-primary","children":"Гайды, аддоны и полезные материалы для World of Warcraft"}],["$","h1",null,{"className":"text-5xl font-semibold leading-[1.02] tracking-normal text-foreground sm:text-7xl lg:text-8xl","children":"WoW Arsenal"}],["$","p",null,{"className":"mt-6 max-w-2xl text-lg leading-8 text-[#d9e1e4] sm:text-xl","children":"Собираем практичные цифровые продукты для игроков WoW: понятные гайды, удобные аддоны, настройки интерфейса и материалы, которые помогают быстрее прогрессировать."}],["$","div",null,{"className":"mt-9 flex flex-wrap gap-3","children":[["$","a",null,{"href":"/products/","className":"inline-flex h-12 items-center justify-center rounded bg-primary px-6 text-base font-semibold text-primary-foreground transition hover:bg-[#ffd074]","children":"Смотреть продукты"}],["$","a",null,{"href":"#featured","className":"inline-flex h-12 items-center justify-center rounded border border-white/22 bg-white/8 px-6 text-base font-semibold text-foreground transition hover:bg-white/14","children":"Что внутри"}]]}]]}],["$","div",null,{"className":"mt-14 grid max-w-4xl gap-3 sm:grid-cols-4","children":[["$","div","Рейдовые маршруты",{"className":"rounded border border-white/14 bg-black/28 px-4 py-3 backdrop-blur","children":["$","p",null,{"className":"text-sm font-medium text-[#e7edf0]","children":"Рейдовые маршруты"}]}],["$","div","Аддоны и настройки",{"className":"rounded border border-white/14 bg-black/28 px-4 py-3 backdrop-blur","children":["$","p",null,{"className":"text-sm font-medium text-[#e7edf0]","children":"Аддоны и настройки"}]}],["$","div","Экономика и прокачка",{"className":"rounded border border-white/14 bg-black/28 px-4 py-3 backdrop-blur","children":["$","p",null,{"className":"text-sm font-medium text-[#e7edf0]","children":"Экономика и прокачка"}]}],["$","div","Актуальные материалы",{"className":"rounded border border-white/14 bg-black/28 px-4 py-3 backdrop-blur","children":["$","p",null,{"className":"text-sm font-medium text-[#e7edf0]","children":"Актуальные материалы"}]}]]}]]}]]}],["$","section",null,{"id":"featured","className":"border-y border-border bg-[#0a0f16] py-20","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 sm:px-6 lg:px-8","children":["$","div",null,{"className":"grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-center","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.18em] text-accent","children":"Арсенал игрока"}],["$","h2",null,{"className":"mt-3 text-3xl font-semibold tracking-normal sm:text-4xl","children":"Все, что помогает играть осознаннее"}],["$","p",null,{"className":"mt-5 text-lg leading-8 text-muted-foreground","children":"Материалы собраны вокруг практической пользы: подготовка к рейдам, удобный интерфейс, экономика персонажа и быстрый доступ к проверенным настройкам."}],"$Ld"]}],"$Le"]}]}]}]]}]]}],["$Lf"],"$L10"]}]
+8:["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$L15"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0flh16y1kdh~2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:I[96237,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"OutletBoundary"]
+d:["$","a",null,{"href":"/products/","className":"mt-8 inline-flex h-12 items-center justify-center rounded bg-primary px-6 text-base font-semibold text-primary-foreground transition hover:bg-[#ffd074]","children":"Открыть каталог"}]
+e:["$","div",null,{"className":"grid gap-4 sm:grid-cols-2","children":[["$","div","Тактика",{"className":"rounded-lg border border-border bg-card p-6","children":[["$","h3",null,{"className":"text-lg font-semibold text-foreground","children":"Тактика"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-muted-foreground","children":"Короткие и понятные гайды для рейдов, подземелий и прогресса."}]]}],["$","div","Интерфейс",{"className":"rounded-lg border border-border bg-card p-6","children":[["$","h3",null,{"className":"text-lg font-semibold text-foreground","children":"Интерфейс"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-muted-foreground","children":"Аддоны, профили и настройки, которые делают игру удобнее."}]]}],["$","div","Экономика",{"className":"rounded-lg border border-border bg-card p-6","children":[["$","h3",null,{"className":"text-lg font-semibold text-foreground","children":"Экономика"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-muted-foreground","children":"Материалы для фарма, аукциона, профессий и подготовки персонажа."}]]}],["$","div","Обновления",{"className":"rounded-lg border border-border bg-card p-6","children":[["$","h3",null,{"className":"text-lg font-semibold text-foreground","children":"Обновления"}],["$","p",null,{"className":"mt-3 text-sm leading-6 text-muted-foreground","children":"Каталог можно расширять новыми продуктами проекта wow без переделки страниц."}]]}]]}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/0hgnnne.9hf9c.js","async":true,"nonce":"$undefined"}]
+10:["$","$L16",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[15637,["/_next/static/chunks/120_mrj66w7d5.js","/_next/static/chunks/0o-0m-u_g1k0-.js"],"IconMark"]
+15:[["$","title","0",{"children":"WoW Arsenal — гайды и аддоны для World of Warcraft"}],["$","meta","1",{"name":"description","content":"Полезные WoW-гайды, аддоны и цифровые материалы для прогресса в World of Warcraft."}],["$","meta","2",{"name":"yandex-verification","content":"3810a843afc384e1"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.ico","type":"image/x-icon"}],["$","link","4",{"rel":"icon","href":"/favicon.ico?favicon.0-gzdo0tdrnai.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","5",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}],["$","link","6",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}],["$","$L18","7",{}]]
+17:null
